@@ -1,5 +1,18 @@
 /* Your Website Styles */
 
+body{
+	font-family: 'Lato', sans-serif;
+	background: url("../img/60degree_gray.png");
+	color: #7d8764;
+}
+
+h1{
+	color: #555152
+}
+
+h3{
+	color: #555152
+}
 
 /* Show Grid */
 .showgrid {
